@@ -79,6 +79,7 @@ namespace inheritance
 
 ```
 ## OUTPUT:
+
 <img width="960" alt="image" src="https://github.com/JayanthYadav123/19AI308-Object-Oriented-Programming-using-CSharp--Ex7---Hierarchical-Inheritance/assets/94836154/e69e0d74-bd5b-455b-bf30-62c1ea579c0c">
 
 ## RESULT:
